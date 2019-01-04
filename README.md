@@ -4,9 +4,9 @@ This specialization is a mix of theory and practice: you will learn algorithmic 
 https://www.coursera.org/specializations/data-structures-algorithms
 
 # There are 6 Courses in this Specialization
-1 - Algorithmic Toolbox 
-2 - Data Structures
-3 - Algorithms on Graphs
-4 - Algorithms on Strings
-5 - Advanced algorithms and Complexity
-6 - Genome Assembly Programming Challenge
+*1 - Algorithmic Toolbox 
+*2 - Data Structures
+*3 - Algorithms on Graphs
+*4 - Algorithms on Strings
+*5 - Advanced algorithms and Complexity
+*6 - Genome Assembly Programming Challenge
